@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+/* boundry box  */
+.boundry {
+  border:1px black solid;
+  width:50%;
+  margin: auto;  
+}
+/* input area */
+.input {
+  height:30px;
+  width:auto;
+ border: 2px black solid;
+ font-size: 15px;
+}
+/* submit button */
+.submit {
+  height: 50px;
+  margin:auto;
+  background-color: rgb(158, 29, 51);
+  color:white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 19px;
+  cursor : pointer;
+}
+/* contact us */
+button {     
+  background-color: rgb(63, 92, 63);
+  color:white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 19px;
+  cursor : pointer;
+
+}
