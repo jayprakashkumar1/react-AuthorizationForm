@@ -1,3 +1,14 @@
+some snapshots: 
+![contact react1](https://user-images.githubusercontent.com/26687042/51749022-34a69a00-20d4-11e9-8a54-4e0c54b93b2c.png)
+![contact react2](https://user-images.githubusercontent.com/26687042/51749026-35d7c700-20d4-11e9-8c26-216576ea1640.png)
+![contact react3](https://user-images.githubusercontent.com/26687042/51749043-425c1f80-20d4-11e9-8028-d7623885697b.png)
+
+
+
+
+First install modules using below command. 
+### sudo npx create-react-app YOURAPPNAME  
+Then add "node_modules" folder  from there to this uploaded folder and then follow below instructons. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
